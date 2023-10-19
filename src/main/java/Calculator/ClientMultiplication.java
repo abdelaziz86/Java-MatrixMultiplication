@@ -1,4 +1,4 @@
-package org.example;
+package Calculator;
 
 import java.rmi.Naming;
 
